@@ -12,8 +12,8 @@
 } 
 
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -136,9 +136,5 @@ body {
 
     .apresentacao__conteudo {
         width: auto%;
-    }
-
-    .apresentacao__links__navegacao {
-        
     }
 }
